@@ -9,8 +9,8 @@
         "unarchive bot",
         "extractor bot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/Unzipper-Bot",
+    "website": "https://art_of_working.t.me",
+    "repository": "https://github.com/Unknown121user/Unzipper-Bot",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
         "APP_ID": {
